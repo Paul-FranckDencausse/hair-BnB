@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1057571753176",
+    "project_id": "homeup-e2873",
+    "storage_bucket": "homeup-e2873.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057571753176:android:6eaaaade268bcd9c7c5bad",
+        "android_client_info": {
+          "package_name": "com.flutterflow.homeU"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057571753176-he8ivt561u9vbdp5gutnmj0m75d4r3mg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.homeU",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1057571753176-13g125pf0od76r9is4rrgo3sh8toqli7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsJ8uFngIDM0wHn5hQKB5CpoxtJzsaeVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057571753176-13g125pf0od76r9is4rrgo3sh8toqli7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1057571753176-af38tod9vj0dvlgrpm7jga13iqqljiet.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.homeU"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057571753176:android:6a4fe89fc765b3877c5bad",
+        "android_client_info": {
+          "package_name": "com.flutterflow.homeUp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057571753176-m9ln467pv179j826qkmp5b0lvvj8rdnk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.homeUp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1057571753176-13g125pf0od76r9is4rrgo3sh8toqli7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsJ8uFngIDM0wHn5hQKB5CpoxtJzsaeVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057571753176-13g125pf0od76r9is4rrgo3sh8toqli7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1057571753176-af38tod9vj0dvlgrpm7jga13iqqljiet.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.homeU"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
